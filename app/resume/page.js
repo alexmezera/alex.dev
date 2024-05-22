@@ -1,7 +1,7 @@
 export default function Home() {
     return (    
         <main>
-        <container className="flex flex-col flex-grow min-h-dvh md:w-2/5 mx-auto py-16">
+        <container className="flex flex-col flex-grow min-h-dvh w-4/5 md:w-2/5 mx-auto py-16">
             <div className="flex flex-initial justify-between items-start py-4 px-2">
                 <h1 className="">Alex Mezera</h1>
                 <h3 className="">Madison, WI</h3>

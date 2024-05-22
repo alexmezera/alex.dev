@@ -34,9 +34,9 @@ export default function Home() {
       </div>
       <ParaBox text = {
         `I've spent the last year completing UW-Madison's Computer Sciences for Professionals capstone.\
-        It's a unique program that I found immensely valuable; consisting of several undergrad-level CS\
-        courses, the program gives a great understanding of not only coding but both lower-level \
-        understanding of machine programming as well as opportunities to learn and implement\
+        It's a unique program that I found immensely valuable: consisting of several undergrad-level CS\
+        courses, the program gives a great understanding of not only coding, but both lower-level \
+        machine programming knowledge as well as opportunities to learn and implement\
          higher-level software\ 
         engineering concepts.`} />
       <ParaBox text = {
