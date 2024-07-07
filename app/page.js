@@ -27,7 +27,7 @@ export default function Home() {
           `Yep, that's me to the right: the small figure in the middle of the image, sitting \
           on the branch, climbing trees for a living. So how did I get from there to computing? That's less \
           complicated than it might seem. I started playing with Linux in high school, \
-          and loved the variety of ways that it could be applied to so many systems. \
+          and loved the freedom that open source software gave to learn and modify programs. \
           I took that curiosity with me into the professional world; however, I found myself learning about \
           organic trees, rather than AVL trees. Then, I injured my shoulder. \
           Oops! So, I returned to computers.`} />
@@ -35,15 +35,14 @@ export default function Home() {
       <ParaBox text = {
         `I've spent the last year completing UW-Madison's Computer Sciences for Professionals capstone.\
         It's a unique program that I found immensely valuable: consisting of several undergrad-level CS\
-        courses, the program gives a great understanding of not only coding, but both lower-level \
-        machine programming knowledge as well as opportunities to learn and implement\
+        courses, the program gives a great understanding of not only programming, but both lower-level \
+        machine programming knowledge and opportunities to learn and implement\
          higher-level software\ 
         engineering concepts.`} />
       <ParaBox text = {
-        `So what next? I'm seeking a position in Software Engineering or Systems Administration.
-        If you found this site from an application, thanks for reading! Hopefully this gave you some
-        more background on who I am and what I'm looking for. If you found me through word of mouth,
-        that's awesome! Either way, I'd love to hear from you on LinkedIn. `}
+        `If you found this site from an application, thanks for reading! Hopefully this gave you some
+        more background on who I am and what I can bring to your team. If you found me through word of mouth,
+        that's awesome! Either way, I'd love to hear from you via LinkedIn. `}
       />
     </container>
   );
